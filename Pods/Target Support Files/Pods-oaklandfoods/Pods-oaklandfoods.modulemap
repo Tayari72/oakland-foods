@@ -1,0 +1,6 @@
+framework module Pods_oaklandfoods {
+  umbrella header "Pods-oaklandfoods-umbrella.h"
+
+  export *
+  module * { export * }
+}
